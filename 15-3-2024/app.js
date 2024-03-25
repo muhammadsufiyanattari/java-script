@@ -107,6 +107,37 @@
 
 
 
+// Q13
+// SKIP
+
+//Q14
+//SKIP
+
+
+
+// Q15
+// var mobile=['nokia','samsung','iphone','sony','hair','motrola']
+// document.write(
+//     `
+//     <select>
+//     <option disabled selected>MOBILE PHONE</option>
+
+//     <option>${mobile[0]}</option>
+//     <option>${mobile[1]}</option>
+//     <option>${mobile[2]}</option>
+//     <option>${mobile[4]}</option>
+//     <option>${mobile[5]}</option>
+//     <option>${mobile[6]}</option>
+
+    
+    
+//     </select>    
+    
+//     `
+// );
+
+
+
 
 
 

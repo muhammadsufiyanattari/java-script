@@ -296,3 +296,42 @@
 // else{
 //     document.write(CurrentDay, ' : Its Working Day')
 // }
+
+// Q5
+
+// var date=new Date().getDate()
+// // document.write(date)
+// if (date<15) {
+//     document.write('First Fifteen Days of the Month')
+// }
+// else{
+//     'Last Fifteen Days of the Month'
+// }
+
+
+
+// Q6
+
+// var date=Date()
+// var mili=new Date().getTime()
+// var min=new Date().getTime()
+// var minMy=min/ (1000 * 60)
+// document.write( 'Current Date : ', date,'<br>',
+//     'Elapsed milisecand since 1 jan 1970 : ',mili,"<br>",
+//     'Elapsed minutes since 1 jan 1970 : ',minMy
+// )
+
+
+
+// Q7
+// var date=new Date()
+// var houre=date.getHours
+// if (houre<=12) {
+//     document.write('Its AM')
+// }
+// else{
+//     document.write('Its PM')
+// }
+
+
+// Q8

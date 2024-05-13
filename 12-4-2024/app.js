@@ -335,3 +335,37 @@
 
 
 // Q8
+//  var dateA=new Date().getMonth()
+//  var date=new Date()
+//  document.write(dateA)
+
+// skip
+
+
+
+// Q9
+
+// var dateRamdan=new Date('1 march 2024')
+// var date=new Date();
+// var diff=date-dateRamdan
+// var day=diff/(1000*60*60*24)
+// var month=diff/(1000*60*60*24*30)
+// var min=diff/(1000*60*60)
+// var sec=diff/(1000*60)
+// document.write('<h1> COMING SOON RAMDAN</h1>',
+//    'Ramdan Days : ', Math.floor(day),'<br> ',
+//    'Ramdan Month : ', Math.floor(month),' <br>',
+// 'Ramdan Minutes : ', Math.floor(min),'<br> ',
+// 'Ramdan Secand: ', Math.floor(sec),'<br> ',
+// )
+
+// Q10
+// skip
+var oldDate =new Date('dec 5 2015')
+var nDate =new Date()
+var minus=nDate-oldDate
+var multi=oldDate/(1000)
+document.write(minus
+    ,'<br>'
+    ,oldDate
+)

@@ -134,3 +134,17 @@
 
 
 
+const arr=[1,2,3,1]
+
+console.log(arr.sort(
+
+    
+));
+
+// for (let i = 0; i < arr.length; i++) {
+//     // const element = arr[i];
+//     console.log(arr.);
+    
+    
+    
+// }

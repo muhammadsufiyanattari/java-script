@@ -360,12 +360,16 @@
 // )
 
 // Q10
-// skip
-var oldDate =new Date('dec 5 2015')
-var nDate =new Date()
-var minus=nDate-oldDate
-var multi=oldDate/(1000)
-document.write(minus
-    ,'<br>'
-    ,oldDate
-)
+// var oldDate =new Date('dec 5 2015')
+// var nDate =new Date()
+// var minus=nDate-oldDate
+
+// var multi=minus/(1000*60)
+// document.write('<b>On referance date</b> ',oldDate
+//     ,'<br>'
+//     ,multi ,'<b>secand had passad beginningof 2015</b>'
+// )
+
+// Q11
+var currentDt=new Date();
+var =
